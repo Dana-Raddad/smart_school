@@ -1,0 +1,96 @@
+.Head {
+    height: 50px;
+    width: 1350px;
+  } 
+
+.GHead {
+height: 50px;
+width: 1350px;
+background-color: #006A5B;
+
+}
+.map-container {
+    position: absolute;
+    top: 20%;
+    bottom: 30%;
+    left: 50%;
+    right: 5%;
+  }
+.mapStyles  {
+    width: '100%';
+    height: '100%';
+  }
+.SectionCard{
+    align-items: center;
+    top: 0px;
+    left: 70px;
+    right: 50px;
+    width: 1010px;
+    height: 450px;
+    padding: 50px;
+    background: #FFFFFF 30% 50% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 37px;
+    opacity: 1;
+   
+}
+.Bus {
+    background-image: url(./Images/Pus.png);
+    height: 145px;
+    width: 185px;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+.Students {
+    background-image: url(./Images/Stud.PNG);
+    height: 145px;
+    width: 185px;
+    background-repeat: no-repeat;
+    padding: 25px;
+   
+}
+.Busloc {
+    background-image: url(./Images/PusLoc.PNG);
+    height: 145px;
+    width: 185px;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+.Dept {
+    background-image: url(./Images/Departure.PNG);
+    height: 145px;
+    width: 185px;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+.DeptStud{
+    background-image: url(./Images/Departure\ Stud.PNG);
+    height: 145px;
+    width: 185px;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+.AbsNotfy{
+    background-image: url(./Images/Sps.PNG);
+    height: 140px;
+    width: 185px;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+/* Pagination links */
+.pagination a {
+    color: #006A5B;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+  }
+  
+  /* Style the active/current link */
+  .pagination a.active {
+    background-color: dodgerblue;
+    color: white;
+  }
+  
+  /* Add a grey background color on mouse-over */
+  .pagination a:hover:not(.active) {background-color: #ddd;}

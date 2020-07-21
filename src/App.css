@@ -1,0 +1,140 @@
+
+.SignIn{
+  background-image: url(./Back-to-school-background.png);
+  text-align: center;
+  height: 700px;
+  width: 1400px;
+  font-size: calc(5px + 1.5vmin);
+  margin: 0 0;
+  padding: 20px 3px;
+  
+}
+.LoginButton{
+  text-align: left;
+  font: Bold 15px/17px Arial;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+border-radius: 25px;
+opacity: 1;
+width: 100px;
+height: 40px;
+text-align: center;
+background: #E3A929 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+}
+.LinkActive{
+text-align: left;
+font:  14px Arial;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;}
+.form{
+  font-size: 20px;
+  color: white;
+}
+.Map{
+  top: 214px;
+right: 0px;
+width: 796px;
+height: 342px;
+background: transparent  0% 0% no-repeat padding-box;
+border: 5px solid #006A5B;
+opacity: 1;
+}
+.NotfyNo{
+
+  top: 508px;
+left: 1374px;
+width: 50px;
+height: 50px;
+background: #C73333 0% 0% no-repeat padding-box;
+border: 3px solid #707070;
+opacity: 1;
+filter: blur(2px);
+border-radius: 30px;
+}
+.background-1 {
+  height:1000px;
+  width: 1000px;
+  margin: 0 0;
+}
+.BackeG{
+  background: #F0F0F0 0% 0% no-repeat padding-box;
+  opacity: 1;
+  top: 0px;
+  left: 0px;
+  width: 1389px;
+  height: 949px;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+.Information{
+  text-align: left;
+font: Regular 30px/34px Arial;
+letter-spacing: 0px;
+color: #52B9AB;
+opacity: 1;
+}
+.input{
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #006A5B;
+border-radius: 25px;
+height: 20px;
+width: 200px;
+opacity: 1;
+
+}
+.select{
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #006A5B;
+border-radius: 25px;
+height: 35px;
+width: 70px;
+opacity: 1;
+
+}
+.Button{
+background: #006A5B 0% 0% no-repeat padding-box ;
+border: 2px solid #006A5B;
+border-radius: 25px;
+opacity: 1;
+width: 80px;
+height: 35px;
+text-align: center;
+font: Bold 9px/10px Arial;
+letter-spacing: 0px;
+color: #E3A929;
+opacity: 1;
+}
+.CButton{
+  background-image: url(./Components/Images/sig.PNG);
+  height:60px;
+  width: 155px;
+  margin: 250px 900px;
+  padding:30px 50px;
+  background-repeat: no-repeat;
+  border-radius: 90px;
+  border-radius: 100%;
+}
+.BusLocation{
+  background-image: url(./Components/Images/BusLocation.PNG);
+  height:200px;
+  width: 200px;
+  margin: 20px 50px;
+  padding:30px 50px;
+  background-repeat: no-repeat;
+}
+.Bus1{
+  background-image: url(./Components/Images/Bus1.PNG);
+  height:50px;
+  width: 50px;
+  margin: 20px 50px;
+  padding:30px 50px;
+  background-repeat: no-repeat;
+}
